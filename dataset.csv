@@ -1,30 +1,49 @@
 Transaction,Category
-zomato order 250,Food & Dining
+zomato food order,Food & Dining
 swiggy food delivery,Food & Dining
 dinner at barbeque nation,Food & Dining
-dominos pizza order,Food & Dining
-paradise biryani,Food & Dining
-starbucks coffee,Food & Dining
+dominos pizza purchase,Food & Dining
+paradise biryani house,Food & Dining
+starbucks coffee bill,Food & Dining
 mcdonalds meal,Food & Dining
 kfc chicken bucket,Food & Dining
 cafe coffee day bill,Food & Dining
-local restaurant lunch,Food & Dining
+local restaurant lunch bill,Food & Dining
 ice cream parlour,Food & Dining
-baskin robbins,Food & Dining
+baskin robbins ice cream,Food & Dining
 food court purchase,Food & Dining
+office canteen lunch,Food & Dining
+subway sandwich order,Food & Dining
+haldirams snacks,Food & Dining
+chinese takeaway,Food & Dining
+dinner with friends,Food & Dining
+getaway cafe bill,Food & Dining
+burger king meal,Food & Dining
+pizza hut delivery,Food & Dining
+chaat stall payment,Food & Dining
+bakery cake purchase,Food & Dining
 ola ride to airport,Travel
-uber ride 300,Travel
+uber ride home 300,Travel
 indigo flight booking DEL to BOM,Travel
-irctc train ticket,Travel
+irctc train ticket purchase,Travel
 redbus ticket to chennai,Travel
 goibibo hotel booking,Travel
-makemytrip flight,Travel
+makemytrip flight purchase,Travel
 metro card recharge,Travel
-fastag recharge,Travel
-local train ticket,Travel
-fuel at indian oil,Travel
+fastag toll recharge,Travel
+local train monthly pass,Travel
+fuel at indian oil pump,Travel
 petrol pump transaction,Travel
-parking fee,Travel
+parking fee at mall,Travel
+vistara flight ticket,Travel
+yatra hotel stay,Travel
+auto rickshaw fare,Travel
+cab fare to office,Travel
+bus pass renewal,Travel
+airport lounge access fee,Travel
+mumbai local ticket,Travel
+rental car service,Travel
+cleartrip flight booking,Travel
 amazon purchase electronics,Shopping
 flipkart order shoes,Shopping
 myntra clothes purchase,Shopping
@@ -33,61 +52,105 @@ croma laptop purchase,Shopping
 vijay sales appliance,Shopping
 nike store sneakers,Shopping
 titan watch showroom,Shopping
-big bazaar shopping,Shopping
-d-mart purchase,Shopping
+big bazaar clothing purchase,Shopping
+d-mart electronics purchase,Shopping
 lifestyle store bill,Shopping
-shoppers stop,Shopping
-online book order,Shopping
+shoppers stop dress,Shopping
+online book order from amazon,Shopping
+hamleys toy store purchase,Shopping
+ikea furniture bill,Shopping
+home centre decor,Shopping
+gift purchase from archies,Shopping
+reliance digital mobile,Shopping
+firstcry baby products,Shopping
+crossword bookstore,Shopping
+decathlon sports gear,Shopping
+lenskart eyewear purchase,Shopping
 lic premium payment,Bills & Utilities
 electricity bill payment,Bills & Utilities
-bseb bill pay,Bills & Utilities
-vodafone recharge,Bills & Utilities
-jio recharge 499,Bills & Utilities
-airtel broadband bill,Bills & Utilities
-water bill payment,Bills & Utilities
-gas cylinder booking,Bills & Utilities
-credit card bill payment,Bills & Utilities
-rent payment to owner,Bills &Utilities
-car emi payment,Bills & Utilities
+bseb monthly bill pay,Bills & Utilities
+vodafone mobile recharge,Bills & Utilities
+jio mobile recharge 499,Bills & Utilities
+airtel broadband internet bill,Bills & Utilities
+municipal water bill payment,Bills & Utilities
+indane gas cylinder booking,Bills & Utilities
+sbi credit card bill payment,Bills & Utilities
+rent payment to owner,Bills & Utilities
+car loan emi payment,Bills & Utilities
 home loan payment,Bills & Utilities
-postpaid bill payment,Bills & Utilities
+airtel postpaid bill payment,Bills & Utilities
+tata sky dth recharge,Bills & Utilities
+society maintenance fee,Bills & Utilities
+property tax payment,Bills & Utilities
+insurance premium,Bills & Utilities
 pvr cinemas movie tickets,Entertainment
 inox movie ticket booking,Entertainment
-bookmyshow tickets,Entertainment
+bookmyshow event tickets,Entertainment
 netflix monthly subscription,Entertainment
-amazon prime video,Entertainment
+amazon prime video subscription,Entertainment
 spotify premium plan,Entertainment
-hotstar subscription,Entertainment
+hotstar annual subscription,Entertainment
 zee5 annual plan,Entertainment
-gaming purchase steam,Entertainment
-concert tickets,Entertainment
+gaming purchase on steam,Entertainment
+concert tickets online,Entertainment
 bowling alley fee,Entertainment
-amusement park entry,Entertainment
+amusement park entry ticket,Entertainment
+youtube premium subscription,Entertainment
+gaana plus music plan,Entertainment
+paytm insider event booking,Entertainment
+go karting tickets,Entertainment
+snooker club payment,Entertainment
 apollo pharmacy bill,Health & Wellness
-medplus pharmacy,Health & Wellness
+medplus pharmacy medicines,Health & Wellness
 doctor consultation fee,Health & Wellness
-lal pathlabs test,Health & Wellness
-hospital bill payment,Health & Wellness
-lenskart order,Health & Wellness
-cult fit membership,Health & Wellness
-gym membership fee,Health & Wellness
+lal pathlabs medical test,Health & Wellness
+fortis hospital bill payment,Health & Wellness
+cult fit membership fee,Health & Wellness
+gold's gym membership fee,Health & Wellness
 dental clinic payment,Health & Wellness
-vitamins purchase,Health & Wellness
-bigbasket grocery,Groceries
-zepto grocery order,Groceries
-local vegetable market,Groceries
-reliance fresh,Groceries
-grofers daily items,Groceries
-milk delivery service,Groceries
+vitamins and supplements purchase,Health & Wellness
+health checkup package,Health & Wellness
+netmeds online pharmacy order,Health & Wellness
+therapist session fee,Health & Wellness
+yoga class fees,Health & Wellness
+physiotherapy session,Health & Wellness
+bigbasket grocery order,Groceries
+zepto grocery delivery,Groceries
+local vegetable market purchase,Groceries
+reliance fresh daily items,Groceries
+grofers grocery items,Groceries
+country delight milk delivery service,Groceries
 dmart grocery bill,Groceries
-spencers retail,Groceries
-more supermarket,Groceries
+spencers retail groceries,Groceries
+more supermarket purchase,Groceries
 online grocery shopping,Groceries
-nykaa cosmetics,Personal Care
-salon haircut,Personal Care
-spa treatment,Personal Care
+local kirana store bill,Groceries
+fresh fruits purchase,Groceries
+daily need store,Groceries
+meat and fish shop,Groceries
+natures basket order,Groceries
+nykaa cosmetics purchase,Personal Care
+vlcc salon haircut,Personal Care
+javed habib salon,Personal Care
+spa treatment session,Personal Care
 the body shop products,Personal Care
-perfume purchase,Personal Care
-shaving kit order,Personal Care
-supercuts salon,Personal Care
-urban company massage,Personal Care
+perfume purchase from sephora,Personal Care
+shaving kit online order,Personal Care
+bblunt salon service,Personal Care
+urban company massage at home,Personal Care
+manicure and pedicure service,Personal Care
+skincare products from wow,Personal Care
+forest essentials purchase,Personal Care
+looks salon service,Personal Care
+udemy course purchase,Education
+coursera certificate fee,Education
+university tuition fee,Education
+school fees payment,Education
+purchase of textbooks,Education
+stationery purchase for study,Education
+upgrad course fee,Education
+chegg subscription,Education
+online coding class fee,Education
+library membership fee,Education
+educational seminar ticket,Education
+byjus subscription,Education
