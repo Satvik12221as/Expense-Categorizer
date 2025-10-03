@@ -2,26 +2,17 @@
 A machine learning project that automatically classifies financial transaction descriptions into categories like Food & Dining, Travel, and Shopping. This repository uses a Multinomial Naive Bayes classifier, a fast and effective algorithm for text classification.
 
 ## Overview
-This project solves the common problem of manually tracking expenses. It implements a classic Natural Language Processing (NLP) pipeline:
+This project is a smart helper that does the boring job of sorting your expenses for you. You give it a short note about what you bought, like "movie tickets", and it instantly knows to put it in the Entertainment group.
 
-Text Cleaning: Raw transaction texts are cleaned and preprocessed.
-
-Feature Extraction: The cleaned texts are converted into numerical features using TF-IDF.
-
-Model Training: A Multinomial Naive Bayes model is trained on the features to learn the patterns for each expense category.
-
-The result is a simple yet powerful command-line tool that can predict the category for any new transaction.
-
+It learned how to do this by studying hundreds of examples, figuring out which words (like "movie," "uber," or "pizza") belong to which spending category. The result is a simple tool that makes tracking your money easy.
 ## Core Features
 Automatic Categorization: Classifies expenses into 9 distinct categories.
 
 Efficient Model: Utilizes a fast and lightweight Naive Bayes classifier, perfect for text data.
 
-Custom Dataset: Trained on a diverse, custom-built dataset of over 300 transaction examples.
+Custom Dataset: Custom built dataset over 300 transaction examples
 
 Ready to Use: Includes scripts to both train the model and make new predictions.
-
-Visual Evaluation: Automatically generates a confusion matrix to visualize model performance.
 
 ## Tech Stack
 Python: The core programming language.
