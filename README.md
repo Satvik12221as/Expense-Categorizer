@@ -24,12 +24,12 @@ Scikit-learn: For TF-IDF, Label Encoding, the Naive Bayes model, and evaluation 
 Joblib: For saving and loading the trained model artifacts.
 
 ## Project Structure
-expense-categorizer/
+EXPENSE-CATEGORIZER/
+├── data/
+│   └── dataset.csv
 ├── models/
-├── plots/               
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── dataset.csv          
-├── main.py            
-└── predict.py           
+│   ├── expense_model.joblib
+│   ├── label_encoder.joblib
+│   └── tfidf_vectorizer.joblib
+├── main.ipynb
+└── README.md          
