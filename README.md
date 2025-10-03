@@ -1,5 +1,5 @@
 # SMART EXPENSIVE MEMBER
-A machine learning project that automatically classifies financial transaction descriptions into categories like Food & Dining, Travel, and Shopping. This repository uses a Multinomial Naive Bayes classifier, a fast and effective algorithm for text classification.
+A machine learning project that automatically classifies financial transaction descriptions into categories like Food & Dining, Travel, and Shopping. This repository uses a Multinomial Naive Bayes classifier for text classification.
 
 ## Overview
 This project is a smart helper that does the boring job of sorting your expenses for you. You give it a short note about what you bought, like "movie tickets", and it instantly knows to put it in the Entertainment group.
@@ -15,7 +15,7 @@ Custom Dataset: Custom built dataset over 300 transaction examples
 Ready to Use: Includes scripts to both train the model and make new predictions.
 
 ## Tech Stack
-Python: The core programming language.
+Python: The programming language.
 
 Pandas: For loading and manipulating the dataset.
 
