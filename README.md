@@ -1,4 +1,4 @@
-# SMART EXPENSIVE MEMBER
+# SMART EXPENSE CATEGORIZER
 A machine learning project that automatically classifies financial transaction descriptions into categories like Food & Dining, Travel, and Shopping. This repository uses a Multinomial Naive Bayes classifier for text classification.
 
 ## Overview
