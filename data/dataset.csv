@@ -22,6 +22,86 @@ burger king meal,Food & Dining
 pizza hut delivery,Food & Dining
 chaat stall payment,Food & Dining
 bakery cake purchase,Food & Dining
+Taco Bell order,Food & Dining
+Pizza Express bill,Food & Dining
+Barbeque Nation booking,Food & Dining
+Costa Coffee purchase,Food & Dining
+Chaayos tea bill,Food & Dining
+lunch at office food court,Food & Dining
+Zomato order 250,Food & Dining
+Swiggy Instamart snacks,Food & Dining
+payment at local dhaba,Food & Dining
+Behrouz Biryani,Food & Dining
+Faasos wraps order,Food & Dining
+Ovenstory Pizza purchase,Food & Dining
+Sweet Truth dessert,Food & Dining
+midnight ice cream delivery,Food & Dining
+Theobroma brownies,Food & Dining
+brunch with family,Food & Dining
+team lunch bill,Food & Dining
+working lunch meeting,Food & Dining
+coffee meeting expense,Food & Dining
+Domino's garlic bread side,Food & Dining
+McDonald's breakfast meal,Food & Dining
+KFC Zinger burger,Food & Dining
+CCD cappuccino,Food & Dining
+South Indian thali,Food & Dining
+Punjabi restaurant bill,Food & Dining
+fine dining experience,Food & Dining
+street food vendor payment,Food & Dining
+payment at Juice Press,Food & Dining
+grocery store ready-to-eat meal,Food & Dining
+office party catering bill,Food & Dining
+birthday dinner celebration,Food & Dining
+anniversary dinner at restaurant,Food & Dining
+lunchbox service subscription,Food & Dining
+meal kit delivery service,Food & Dining
+grocery store bakery item,Food & Dining
+fresh juice bar payment,Food & Dining
+La Pino'z Pizza,Food & Dining
+Rebel Foods order,Food & Dining
+FreshMenu daily meal,Food & Dining
+payment at SOCIAL,Food & Dining
+Hard Rock Cafe bill,Food & Dining
+Nando's chicken dinner,Food & Dining
+Chili's restaurant payment,Food & Dining
+Smoke House Deli brunch,Food & Dining
+Wow! Momo purchase,Food & Dining
+Mad Over Donuts,Food & Dining
+Naturals Ice Cream,Food & Dining
+Belgian Waffle Co,Food & Dining
+payment at paan shop,Food & Dining
+local mithai shop purchase,Food & Dining
+samosa and kachori snacks,Food & Dining
+vada pav stall payment,Food & Dining
+dosa corner bill,Food & Dining
+corporate lunch catering,Food & Dining
+payment at food truck,Food & Dining
+late night kebab order,Food & Dining
+Biryani By Kilo order,Food & Dining
+sushi at Wasabi by Morimoto,Food & Dining
+italian food at Prego,Food & Dining
+Zomato Pro membership,Food & Dining
+Swiggy One annual plan,Food & Dining
+payment for office snacks,Food & Dining
+college canteen expense,Food & Dining
+roadside tea stall payment,Food & Dining
+payment at Udupi restaurant,Food & Dining
+chinese food from Mainland China,Food & Dining
+monginis cake shop,Food & Dining
+weekend brunch buffet,Food & Dining
+order from cloud kitchen,Food & Dining
+family dinner outing,Food & Dining
+office lunch thali,Food & Dining
+sharwarma roll purchase,Food & Dining
+momos from local vendor,Food & Dining
+Giani's ice cream,Food & Dining
+Amul parlour bill,Food & Dining
+lunch at a dhaba on highway,Food & Dining
+chaat at Haldiram's,Food & Dining
+quick bite at airport food court,Food & Dining
+Tibbs Frankie purchase,Food & Dining
+cafe mocha at Starbucks,Food & Dining
 ola ride to airport,Travel
 uber ride home 300,Travel
 indigo flight booking DEL to BOM,Travel
@@ -44,6 +124,77 @@ airport lounge access fee,Travel
 mumbai local ticket,Travel
 rental car service,Travel
 cleartrip flight booking,Travel
+Air India flight to Goa,Travel
+SpiceJet booking,Travel
+Agoda hotel booking,Travel
+Booking.com stay payment,Travel
+Zoomcar rental fee,Travel
+Ola auto ride,Travel
+Uber Premier trip home,Travel
+airport parking fee payment,Travel
+highway toll payment NH8,Travel
+AirAsia ticket purchase,Travel
+state transport bus ticket,Travel
+private bus booking online,Travel
+travel insurance purchase,Travel
+visa application fee,Travel
+hotel room service bill,Travel
+extra baggage fee at airport,Travel
+seat selection fee Indigo,Travel
+meal purchase on train,Travel
+OYO Rooms booking,Travel
+Treebo hotel stay,Travel
+rental bike service (Vogo/Bounce),Travel
+local taxi fare payment,Travel
+ferry ticket booking,Travel
+fuel at HPCL pump,Travel
+diesel transaction for car,Travel
+car wash service,Travel
+metro smart card top-up,Travel
+Mumbai-Pune bus ticket,Travel
+Delhi-Jaipur train ticket,Travel
+flight upgrade fee,Travel
+travel agent service fee,Travel
+international roaming pack activation,Travel
+currency exchange fee,Travel
+travel accessories from Decathlon,Travel
+pre-booked meal on flight,Travel
+Uber moto ride,Travel
+Rapido bike taxi,Travel
+Avis car rental,Travel
+Hertz rental service,Travel
+Skyscanner flight search booking,Travel
+Trivago hotel deal,Travel
+excess baggage fee payment,Travel
+in-flight wifi purchase,Travel
+Priority Pass lounge access,Travel
+payment for tatkal ticket,Travel
+Volvo bus booking,Travel
+airport shuttle service,Travel
+prepaid taxi from airport,Travel
+CNG gas for car,Travel
+bike puncture repair,Travel
+car servicing charge,Travel
+road trip fuel expense,Travel
+payment at hotel minibar,Travel
+surcharge for flight ticket,Travel
+convenience fee for IRCTC,Travel
+e-rickshaw ride payment,Travel
+FabHotels booking,Travel
+flight cancellation fee,Travel
+rescheduling charge for flight,Travel
+payment to tour operator,Travel
+trekking package fee,Travel
+adventure sports booking,Travel
+sea link toll plaza,Travel
+parking ticket at railway station,Travel
+cloak room fee at station,Travel
+car towing service charge,Travel
+vehicle pollution check fee,Travel
+international driving permit fee,Travel
+purchase of forex card,Travel
+payment for travel guide,Travel
+entry fee for tourist spot,Travel
 amazon purchase electronics,Shopping
 flipkart order shoes,Shopping
 myntra clothes purchase,Shopping
@@ -66,6 +217,80 @@ firstcry baby products,Shopping
 crossword bookstore,Shopping
 decathlon sports gear,Shopping
 lenskart eyewear purchase,Shopping
+Ajio fashion purchase,Shopping
+Tata Cliq electronics order,Shopping
+Meesho saree order,Shopping
+Westside home decor,Shopping
+Pantaloons kurta set,Shopping
+H&M t-shirt purchase,Shopping
+Marks & Spencer bill,Shopping
+Shoppers Stop cosmetics haul,Shopping
+Reliance Trends footwear,Shopping
+Max Fashion kids wear,Shopping
+Zudio shopping bill,Shopping
+Levi's jeans purchase,Shopping
+Allen Solly shirt,Shopping
+Peter England trousers,Shopping
+FabIndia purchase,Shopping
+Tanishq jewellery bill,Shopping
+HomeTown furniture,Shopping
+Pepperfry home goods,Shopping
+gadget accessory from Croma,Shopping
+mobile cover from Amazon,Shopping
+laptop bag from Flipkart,Shopping
+kitchenware from Big Bazaar,Shopping
+garden supplies purchase,Shopping
+pet food from pet store,Shopping
+office supplies from Staples,Shopping
+Puma showroom purchase,Shopping
+Adidas store bill,Shopping
+Reebok shoe purchase,Shopping
+Skechers footwear,Shopping
+Bata sandals purchase,Shopping
+birthday gift purchase,Shopping
+anniversary gift from store,Shopping
+Raymonds fabric purchase,Shopping
+book fair purchase,Shopping
+musical instrument from store,Shopping
+art supplies purchase,Shopping
+Nykaa Fashion clothing,Shopping
+Uniqlo jacket purchase,Shopping
+Samsung washing machine,Shopping
+LG refrigerator purchase,Shopping
+Sony TV from showroom,Shopping
+Bose headphones purchase,Shopping
+JBL speaker from Reliance,Shopping
+Dell laptop on Amazon,Shopping
+HP printer from Flipkart,Shopping
+Kindle Paperwhite purchase,Shopping
+Apple iPhone purchase,Shopping
+OnePlus mobile from store,Shopping
+camera lens from Canon store,Shopping
+air purifier from Philips,Shopping
+Dyson vacuum cleaner,Shopping
+Prestige mixer grinder,Shopping
+Diwali shopping spree,Shopping
+Christmas gift purchase,Shopping
+Wedding gift from Lifestyle,Shopping
+purchase from local market,Shopping
+handicraft fair purchase,Shopping
+saree from Nalli Silks,Shopping
+kurta from Manyavar,Shopping
+winter clothes shopping,Shopping
+summer collection from Zara,Shopping
+purchase on Snapdeal,Shopping
+order from Jabong,Shopping
+designer bag from Myntra,Shopping
+sunglasses from Ray-Ban,Shopping
+Casio watch purchase,Shopping
+sofa from Urban Ladder,Shopping
+bedside table from Ikea,Shopping
+office chair from Featherlite,Shopping
+sports equipment from Decathlon,Shopping
+cricket bat purchase,Shopping
+badminton racket from Yonex,Shopping
+water bottle from Tupperware,Shopping
+school bag for kids,Shopping
 lic premium payment,Bills & Utilities
 electricity bill payment,Bills & Utilities
 bseb monthly bill pay,Bills & Utilities
@@ -83,6 +308,78 @@ tata sky dth recharge,Bills & Utilities
 society maintenance fee,Bills & Utilities
 property tax payment,Bills & Utilities
 insurance premium,Bills & Utilities
+HDFC credit card payment,Bills & Utilities
+ICICI credit card bill,Bills & Utilities
+BSNL landline bill,Bills & Utilities
+ACT Fibernet bill payment,Bills & Utilities
+Hathway broadband payment,Bills & Utilities
+Adani electricity bill,Bills & Utilities
+BSES Rajdhani bill pay,Bills & Utilities
+Delhi Jal Board water bill,Bills & Utilities
+Mahanagar Gas pipeline bill,Bills & Utilities
+Gujarat Gas bill payment,Bills & Utilities
+LIC policy premium,Bills & Utilities
+HDFC Life insurance premium,Bills & Utilities
+Bajaj Allianz health insurance,Bills & Utilities
+new insurance policy purchase,Bills & Utilities
+FASTag recharge on PayTM,Bills & Utilities
+DTH annual plan recharge,Bills & Utilities
+Dish TV monthly recharge,Bills & Utilities
+house rent transfer via NEFT,Bills & Utilities
+car maintenance bill,Bills & Utilities
+bike service charge,Bills & Utilities
+quarterly society maintenance,Bills & Utilities
+Google Drive subscription,Bills & Utilities
+iCloud storage fee,Bills & Utilities
+newspaper subscription renewal,Bills & Utilities
+magazine subscription payment,Bills & Utilities
+mobile postpaid bill VI,Bills & Utilities
+home loan EMI HDFC,Bills & Utilities
+personal loan EMI Bajaj,Bills & Utilities
+car insurance renewal,Bills & Utilities
+bike insurance premium,Bills & Utilities
+mutual fund SIP investment,Bills & Utilities
+provident fund contribution,Bills & Utilities
+NPS contribution payment,Bills & Utilities
+apartment amenities fee,Bills & Utilities
+garbage collection fee,Bills & Utilities
+TNEB electricity bill,Bills & Utilities
+MGL gas bill payment,Bills & Utilities
+education loan EMI,Bills & Utilities
+Axis Bank CC bill,Bills & Utilities
+American Express card payment,Bills & Utilities
+payment for cylinder booking HP,Bills & Utilities
+Spectra broadband bill,Bills & Utilities
+JioFiber monthly plan,Bills & Utilities
+bill payment on PhonePe,Bills & Utilities
+recharge on Amazon Pay,Bills & Utilities
+Paytm utility bill payment,Bills & Utilities
+Max Life Insurance premium,Bills & Utilities
+Star Health insurance renewal,Bills & Utilities
+term insurance plan payment,Bills & Utilities
+vehicle insurance premium,Bills & Utilities
+post office recurring deposit,Bills & Utilities
+Sunking solar plan EMI,Bills & Utilities
+club membership annual fee,Bills & Utilities
+RWA monthly charges,Bills & Utilities
+water tanker service payment,Bills & Utilities
+professional tax payment,Bills & Utilities
+GST payment for business,Bills & Utilities
+challan payment online,Bills & Utilities
+Amazon Prime annual subscription,Bills & Utilities
+Flipkart Plus fee,Bills & Utilities
+child's school bus fee,Bills & Utilities
+donation to charity,Bills & Utilities
+payment to housing society,Bills & Utilities
+credit card annual fee,Bills & Utilities
+loan processing fee,Bills & Utilities
+bank locker annual rent,Bills & Utilities
+demat account maintenance charge,Bills & Utilities
+Groww SIP transaction,Bills & Utilities
+Paytm Money stocks purchase,Bills & Utilities
+Zerodha funds transfer,Bills & Utilities
+Upstox AMC charge,Bills & Utilities
+FASTag low balance recharge,Bills & Utilities
 pvr cinemas movie tickets,Entertainment
 inox movie ticket booking,Entertainment
 bookmyshow event tickets,Entertainment
@@ -100,6 +397,76 @@ gaana plus music plan,Entertainment
 paytm insider event booking,Entertainment
 go karting tickets,Entertainment
 snooker club payment,Entertainment
+SonyLIV subscription,Entertainment
+Voot select plan,Entertainment
+Cinepolis movie ticket,Entertainment
+Carnival Cinemas booking,Entertainment
+stand-up comedy show ticket,Entertainment
+theater play booking on BMS,Entertainment
+Paytm Insider workshop,Entertainment
+NH7 Weekender pass,Entertainment
+escape room adventure,Entertainment
+SMAAASH gaming card recharge,Entertainment
+local fair entry ticket,Entertainment
+museum entry fee,Entertainment
+art gallery ticket,Entertainment
+historical monument entry fee,Entertainment
+Audible subscription,Entertainment
+Kindle eBook purchase,Entertainment
+Google Play movie rental,Entertainment
+YouTube movie purchase,Entertainment
+live sports match ticket,Entertainment
+IPL ticket booking,Entertainment
+online game subscription,Entertainment
+PlayStation Plus subscription,Entertainment
+Xbox Game Pass,Entertainment
+board game cafe bill,Entertainment
+karaoke night at pub,Entertainment
+pub entry fee,Entertainment
+clubbing expenses,Entertainment
+swimming pool monthly pass,Entertainment
+sports club membership,Entertainment
+online chess tournament fee,Entertainment
+fantasy cricket league entry,Entertainment
+digital comic subscription,Entertainment
+painting workshop fee,Entertainment
+pottery class fee,Entertainment
+dance class fee payment,Entertainment
+music concert ticket purchase,Entertainment
+online gaming tournament entry,Entertainment
+in-app purchase for game,Entertainment
+purchase of game skin,Entertainment
+entry to local theatre group play,Entertainment
+IMAX 3D movie ticket,Entertainment
+drive-in cinema ticket,Entertainment
+subscription to MUBI,Entertainment
+JioSaavn Pro subscription,Entertainment
+Wynk Music premium,Entertainment
+Sunburn festival tickets,Entertainment
+water park ticket (Wonderla),Entertainment
+ferris wheel ride at fair,Entertainment
+entry fee for magic show,Entertainment
+circus ticket purchase,Entertainment
+paintball arena booking,Entertainment
+laser tag game fee,Entertainment
+billiards club hourly charge,Entertainment
+Twitch subscription for streamer,Entertainment
+Discord Nitro subscription,Entertainment
+purchase of a video game CD,Entertainment
+rental of a movie from store,Entertainment
+cover charge at a nightclub,Entertainment
+payment for a DJ night,Entertainment
+tickets for a music festival,Entertainment
+local band performance ticket,Entertainment
+open mic night entry,Entertainment
+Planetarium show ticket,Entertainment
+zoo entry fee,Entertainment
+botanical garden ticket,Entertainment
+Comic Con pass purchase,Entertainment
+purchase of a new board game,Entertainment
+tickets to a football match ISL,Entertainment
+Pro Kabaddi League tickets,Entertainment
+live streaming event pass,Entertainment
 apollo pharmacy bill,Health & Wellness
 medplus pharmacy medicines,Health & Wellness
 doctor consultation fee,Health & Wellness
@@ -114,6 +481,74 @@ netmeds online pharmacy order,Health & Wellness
 therapist session fee,Health & Wellness
 yoga class fees,Health & Wellness
 physiotherapy session,Health & Wellness
+1mg online medicine order,Health & Wellness
+Pharmeasy lab test booking,Health & Wellness
+Max Hospital consultation fee,Health & Wellness
+Manipal Hospital bill payment,Health & Wellness
+Practo doctor appointment,Health & Wellness
+eye checkup at Lenskart,Health & Wellness
+dental scaling and polishing,Health & Wellness
+gym personal trainer fee,Health & Wellness
+online fitness coaching subscription,Health & Wellness
+HealthifyMe premium subscription,Health & Wellness
+MyFitnessPal premium,Health & Wellness
+yoga retreat booking fee,Health & Wellness
+meditation app subscription (Calm),Health & Wellness
+annual health check-up package,Health & Wellness
+dermatologist consultation fee,Health & Wellness
+orthopedic doctor fee,Health & Wellness
+prescription glasses purchase,Health & Wellness
+contact lens solution purchase,Health & Wellness
+protein supplement purchase,Health & Wellness
+multivitamin tablets purchase,Health & Wellness
+online therapy session on BetterHelp,Health & Wellness
+hospital emergency room visit,Health & Wellness
+ambulance service charge,Health & Wellness
+medical equipment rental,Health & Wellness
+dental braces payment,Health & Wellness
+ayurvedic treatment center bill,Health & Wellness
+homeopathy clinic visit,Health & Wellness
+sports massage therapy session,Health & Wellness
+dietician consultation fee,Health & Wellness
+blood donation camp supplies,Health & Wellness
+first aid kit purchase,Health & Wellness
+sanitizer and mask purchase,Health & Wellness
+health insurance claim processing fee,Health & Wellness
+maternity check-up fee,Health & Wellness
+child vaccination charge,Health & Wellness
+pet vaccination and vet fee,Health & Wellness
+annual pet check-up,Health & Wellness
+thyroid profile test booking,Health & Wellness
+zumba class fee,Health & Wellness
+pilates session payment,Health & Wellness
+purchase of essential oils,Health & Wellness
+fitness tracker (Fitbit) purchase,Health & Wellness
+Apollo 24/7 medicine order,Health & Wellness
+SRL Diagnostics test fee,Health & Wellness
+ENT specialist consultation,Health & Wellness
+cardiologist appointment fee,Health & Wellness
+x-ray scan payment,Health & Wellness
+MRI scan bill,Health & Wellness
+payment for hospital stay,Health & Wellness
+purchase of crutches,Health & Wellness
+hearing aid purchase,Health & Wellness
+blood pressure monitor,Health & Wellness
+sugar testing machine,Health & Wellness
+herbal supplements from Patanjali,Health & Wellness
+Anytime Fitness gym membership,Health & Wellness
+CrossFit class package,Health & Wellness
+purchase of resistance bands,Health & Wellness
+acupuncture session fee,Health & Wellness
+spa and wellness package,Health & Wellness
+hot stone massage therapy,Health & Wellness
+chiropractor adjustment fee,Health & Wellness
+purchase of orthopedic mattress,Health & Wellness
+sunscreen lotion purchase,Health & Wellness
+mosquito repellent cream,Health & Wellness
+preventive health screening,Health & Wellness
+medical consultation on DocsApp,Health & Wellness
+purchase of bandages and antiseptics,Health & Wellness
+monthly medicine supply,Health & Wellness
 bigbasket grocery order,Groceries
 zepto grocery delivery,Groceries
 local vegetable market purchase,Groceries
@@ -129,6 +564,75 @@ fresh fruits purchase,Groceries
 daily need store,Groceries
 meat and fish shop,Groceries
 natures basket order,Groceries
+Blinkit quick grocery delivery,Groceries
+Dunzo daily grocery order,Groceries
+JioMart essentials purchase,Groceries
+Star Bazaar monthly groceries,Groceries
+Licious meat order online,Groceries
+FreshToHome fish delivery,Groceries
+milk and bread from local store,Groceries
+weekly vegetable market purchase,Groceries
+fruit vendor payment,Groceries
+organic food store purchase,Groceries
+Big Bazaar grocery haul,Groceries
+D-Mart food items bill,Groceries
+frozen food purchase from store,Groceries
+dairy products from Mother Dairy,Groceries
+Amul store purchase,Groceries
+packaged food items,Groceries
+spices and condiments purchase,Groceries
+cooking oil and ghee,Groceries
+flour and grains purchase,Groceries
+imported food from Nature's Basket,Groceries
+tea and coffee purchase,Groceries
+soft drinks and juices from store,Groceries
+dry fruits purchase,Groceries
+baby food and formula,Groceries
+pet food from grocery store,Groceries
+cleaning supplies purchase,Groceries
+toiletries from supermarket,Groceries
+paper towels and tissues,Groceries
+baking supplies purchase,Groceries
+online order from Spencer's,Groceries
+monthly kirana store credit payment,Groceries
+farmer's market purchase,Groceries
+Swiggy Instamart order,Groceries
+vegetable subscription box,Groceries
+purchase of imported cheese,Groceries
+organic vegetables from online store,Groceries
+Easyday Club grocery purchase,Groceries
+24Seven store late night purchase,Groceries
+cold pressed juice purchase,Groceries
+purchase of gourmet food items,Groceries
+buy exotic fruits online,Groceries
+payment for packaged water cans,Groceries
+purchase of eggs and poultry,Groceries
+local butcher shop payment,Groceries
+purchase of seafood,Groceries
+buy bread from local bakery,Groceries
+payment at milk booth,Groceries
+idli/dosa batter purchase,Groceries
+purchase of pickles and papad,Groceries
+instant noodles and pasta,Groceries
+cereals and oats purchase,Groceries
+jams and spreads,Groceries
+sauces and ketchup,Groceries
+biscuits and cookies,Groceries
+namkeen and snacks packet,Groceries
+chocolates and candies,Groceries
+ice cream tub from supermarket,Groceries
+laundry detergent and supplies,Groceries
+dishwashing soap and scrub,Groceries
+floor cleaner and disinfectants,Groceries
+air freshener purchase,Groceries
+garbage bags purchase,Groceries
+aluminum foil and cling wrap,Groceries
+purchase of kitchen towels,Groceries
+diapers and baby wipes,Groceries
+muesli and granola bars,Groceries
+health drinks (Horlicks/Bournvita),Groceries
+soya milk and almond milk,Groceries
+tofu and paneer purchase,Groceries
 nykaa cosmetics purchase,Personal Care
 vlcc salon haircut,Personal Care
 javed habib salon,Personal Care
@@ -137,11 +641,81 @@ the body shop products,Personal Care
 perfume purchase from sephora,Personal Care
 shaving kit online order,Personal Care
 bblunt salon service,Personal Care
-urban company massage at home,Personal Care
+urban company massage at home,Personal care
 manicure and pedicure service,Personal Care
 skincare products from wow,Personal Care
 forest essentials purchase,Personal Care
 looks salon service,Personal Care
+Enrich Salon services,Personal Care
+Geetanjali salon bill,Personal Care
+Foxy beauty products order,Personal Care
+Purplle cosmetics purchase,Personal Care
+L'Oréal professional products,Personal Care
+Mamaearth skincare order,Personal Care
+Kaya Skin Clinic treatment,Personal Care
+threading and waxing service,Personal Care
+facial treatment service,Personal Care
+hair spa service at salon,Personal Care
+nail art session,Personal Care
+salon membership fee,Personal Care
+Urban Company haircut at home,Personal Care
+men's grooming kit order,Personal Care
+Beardo products purchase,Personal Care
+Bombay Shaving Company order,Personal Care
+lipstick from MAC,Personal Care
+foundation from Maybelline,Personal Care
+sunscreen purchase,Personal Care
+moisturizer from Cetaphil,Personal Care
+body lotion from Vaseline,Personal Care
+deodorant purchase,Personal Care
+dental care products purchase,Personal Care
+bath and body works products,Personal Care
+hair color service,Personal Care
+hair styling products purchase,Personal Care
+face wash purchase,Personal Care
+toner and serum,Personal Care
+sheet mask purchase,Personal Care
+beard trimming service,Personal Care
+kids haircut at salon,Personal Care
+epilator purchase,Personal Care
+hair straightener purchase,Personal Care
+trimmer purchase online,Personal Care
+electric toothbrush purchase,Personal Care
+keratin treatment at salon,Personal Care
+laser hair removal session,Personal Care
+Bath & Body Works purchase,Personal Care
+Kiehls skincare products,Personal Care
+Clinique moisturizer purchase,Personal Care
+Estee Lauder foundation,Personal Care
+Huda Beauty eyeshadow palette,Personal Care
+perfume from Shoppers Stop,Personal Care
+Parcos luxury perfume,Personal Care
+Gillette shaving supplies,Personal Care
+Nivea men's grooming,Personal Care
+biotin supplements for hair,Personal Care
+collagen powder purchase,Personal Care
+Urban Company salon for men,Personal Care
+Truefitt & Hill grooming service,Personal Care
+Aroma Thai spa therapy,Personal Care
+O2 Spa massage session,Personal Care
+pedicure at local salon,Personal Care
+haircut and beard shape up,Personal Care
+purchase of hair gel/wax,Personal Care
+dry shampoo purchase,Personal Care
+makeup remover from Nykaa,Personal Care
+nail polish remover,Personal Care
+sanitary napkins from pharmacy,Personal Care
+tampons and menstrual cup,Personal Care
+contact lenses from Lenskart,Personal Care
+razor blades and shaving foam,Personal care
+aftershave lotion purchase,Personal Care
+cologne from Zara,Personal Care
+body scrub from The Body Shop,Personal Care
+face mask from Innisfree,Personal Care
+lip balm purchase,Personal Care
+hair serum from Streax,Personal Care
+concealer purchase online,Personal Care
+eyeliner and mascara,Personal Care
 udemy course purchase,Education
 coursera certificate fee,Education
 university tuition fee,Education
@@ -154,3 +728,77 @@ online coding class fee,Education
 library membership fee,Education
 educational seminar ticket,Education
 byjus,Education
+Vedantu online class fee,Education
+WhiteHat Jr coding class,Education
+LinkedIn Learning subscription,Education
+Skillshare membership,Education
+exam registration fee (CAT/GATE),Education
+college application fee,Education
+school annual fee payment,Education
+private tutor fee payment,Education
+online course on edX,Education
+Simplilearn certification fee,Education
+stationery from local shop,Education
+pen and notebook purchase,Education
+reference books for exam,Education
+school uniform purchase,Education
+school project materials,Education
+art and craft supplies for kids,Education
+educational toys from store,Education
+science kit purchase online,Education
+online webinar fee,Education
+academic journal subscription,Education
+public speaking workshop,Education
+writing course fee,Education
+foreign language class fee,Education
+Duolingo Plus subscription,Education
+music instrument lessons fee,Education
+driving school fee,Education
+swimming lessons fee,Education
+competitive exam coaching fee,Education
+online doubt solving platform sub,Education
+payment for research paper access,Education
+thesis printing and binding cost,Education
+university library fine,Education
+lab equipment fee for college,Education
+school sports day contribution,Education
+annual day costume rental,Education
+school educational trip fee,Education
+online tutoring session fee,Education
+GRE/GMAT exam fee,Education
+school stationery haul,Education
+purchase of scientific calculator,Education
+Unacademy Plus subscription,Education
+Gradeup course fee,Education
+PMP exam fee,Education
+digital marketing workshop,Education
+Pluralsight annual subscription,Education
+DataCamp course payment,Education
+Aakash Institute fees,Education
+Allen Career Institute payment,Education
+purchase of past year papers,Education
+photocopying charges for notes,Education
+college semester exam fee,Education
+hostel fee payment,Education
+mess fee for college,Education
+re-evaluation fee for exam,Education
+school admission form fee,Education
+purchase of educational software,Education
+Grammarly premium subscription,Education
+payment for coding bootcamp,Education
+IELTS exam registration,Education
+TOEFL exam fee,Education
+abacus class for kids,Education
+robotics class fee,Education
+ballet class subscription,Education
+guitar lessons payment,Education
+piano class fee,Education
+online degree program fee,Education
+payment for student exchange program,Education
+purchase of lab coat and supplies,Education
+internship application fee,Education
+career counseling session fee,Education
+payment for online assessment,Education
+subscription to educational magazine,Education
+payment for skill development course,Education
+school extracurricular activity fee,Education
